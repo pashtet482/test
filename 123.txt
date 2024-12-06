@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwerty 2024
+=======
+qwerty 2024
+>>>>>>> f8ec80b10eacda6e009f56744f01e25b58e94e45
